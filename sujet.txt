@@ -1,2 +1,5 @@
 PRendre un nombre de 1 .... N (N=100, 500, 1000); afficher 
-Fizz si c'est divisible par 3 et Buzz si c'est divisible par 5
+Fizz si c'est divisible par 3(le nb par fizz)
+Buzz si c'est divisible par 5(le nb par buzz)
+Si a la fois divisible par 3 et 5 afficher FizzBuzz a la place du nombre
+<<Notre cerveau est fait pour avoir des idee pas pour les retenir>> Allen David
